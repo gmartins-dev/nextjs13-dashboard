@@ -20,7 +20,7 @@
 
 ## Built With
 
-- [Chat.js](https://supabase.com)
+- [Chat.js](https://www.chartjs.org/)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Next.js](https://nextjs.org)
 - [Vercel](https://vercel.com)
